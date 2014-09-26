@@ -1,0 +1,23 @@
+<div ng-cloak  id="fullpage">
+          
+  <div ng-include="'views/partial-section1.html'" class="section" data-anchor="section1"></div>
+  <div ng-include="'views/partial-section2.html'" class="section" data-anchor="section2"></div>
+  <div ng-include="'views/partial-section3.html'" class="section" data-anchor="section3"></div>
+  <div ng-include="'views/partial-section4.html'" class="section" data-anchor="section4"></div>
+
+</div>
+
+
+<!-- <ul id="menu">
+    <li data-menuanchor="section1" class="active"><a href="#section1">section1</a></li>
+    <li data-menuanchor="section2"><a href="#section2">section2</a></li>
+    <li data-menuanchor="section3"><a href="#section3">section3</a></li>
+    <li data-menuanchor="section4"><a href="#section4">section4</a></li>
+</ul> -->
+
+<div class="footer" ng-if="username === 'dillon.lee@chameleon-uk.com'" ng-controller="NavigationCtrl">
+	<button id="moveSectionUp" class="webcastNav">up</button>
+	<button id="moveSectionDown" class="webcastNav">down</button>
+	<button id="moveSlideLeft" class="webcastNav">left</button>
+	<button id="moveSlideRight" class="webcastNav">right</button>
+</div>

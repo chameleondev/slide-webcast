@@ -1,0 +1,2705 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"auth",
+				"authClient"
+			],
+			[
+				"au",
+				"authClient"
+			],
+			[
+				"from",
+				"fromState"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"stag",
+				"stageObj"
+			],
+			[
+				"act",
+				"activeSlide"
+			],
+			[
+				"valida",
+				"validateForm"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"stage",
+				"stageNum"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"lo",
+				"load"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"Pop",
+				"popup2"
+			],
+			[
+				"bore",
+				"border-left"
+			],
+			[
+				"$loc",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"get",
+				"get	Get Elements"
+			],
+			[
+				"nav",
+				"navPos"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"rev",
+				"revoladeBlue"
+			],
+			[
+				"backl",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"ps",
+				"pos-r	position: relative;"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"revol",
+				"revoladeRed"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"no",
+				"noTherapy"
+			],
+			[
+				"$rou",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$ro",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"re",
+				"requestForm"
+			],
+			[
+				"sitema",
+				"sitemapSlide"
+			],
+			[
+				"fini",
+				"finished"
+			],
+			[
+				"slid",
+				"slideID"
+			],
+			[
+				"got",
+				"goToSlide"
+			],
+			[
+				"slide",
+				"slideshowID"
+			],
+			[
+				"sli",
+				"slideID"
+			],
+			[
+				"fin",
+				"finished"
+			],
+			[
+				"add",
+				"addEvent"
+			],
+			[
+				"sor",
+				"sortedIDs"
+			],
+			[
+				"gree",
+				"greenTab"
+			],
+			[
+				"oH",
+				"oHelpText"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"aV",
+				"aVSp"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"curre",
+				"current"
+			],
+			[
+				"or",
+				"origPos1"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"stop",
+				"stopButton"
+			],
+			[
+				"o",
+				"oHelpIcon"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"su",
+				"sup	Tag"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"A",
+				"AuthenticationService"
+			],
+			[
+				"te",
+				"templateURL"
+			],
+			[
+				"scri",
+				"script	Tag"
+			],
+			[
+				"an",
+				"animateme"
+			],
+			[
+				"mute",
+				"muteButton"
+			],
+			[
+				"vol",
+				"volume-bar"
+			],
+			[
+				"seek",
+				"seek-bar"
+			],
+			[
+				"full",
+				"full-screen"
+			],
+			[
+				"fi",
+				"fiveMinuteCallLink"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"da",
+				"dataset"
+			],
+			[
+				"lis",
+				"lis	list-style"
+			],
+			[
+				"ine",
+				"inline"
+			],
+			[
+				"feve",
+				"feverTreatments"
+			],
+			[
+				"fe",
+				"feel"
+			],
+			[
+				"sore",
+				"soreThroatTreatments"
+			],
+			[
+				"head",
+				"headacheTreatments"
+			],
+			[
+				"yello",
+				"yellow_bar"
+			],
+			[
+				"green",
+				"green_bar"
+			],
+			[
+				"gra",
+				"graph"
+			],
+			[
+				"ser",
+				"setInterval"
+			],
+			[
+				"se",
+				"setInterval"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ge",
+				"getElementsByTagName"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"tra",
+				"transform_styles"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"pare",
+				"parentHeight"
+			],
+			[
+				"close",
+				"closeMenu"
+			],
+			[
+				"clos",
+				"closeMenu"
+			],
+			[
+				"menu",
+				"menuPos"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"help",
+				"help_tooltip"
+			],
+			[
+				"slie",
+				"slideshow"
+			],
+			[
+				"sitemap",
+				"sitemap_content"
+			],
+			[
+				"side",
+				"sideNav"
+			],
+			[
+				"uni",
+				"uniqueSlide"
+			],
+			[
+				"all",
+				"allSlides"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"footer",
+				"footerHandle"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"scrip",
+				"SCRIPT	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"man1",
+				"man1Counter"
+			],
+			[
+				"p",
+				"proto	Prototype"
+			],
+			[
+				"tre",
+				"treatment"
+			],
+			[
+				"treat",
+				"treatment"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 3557,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/partial-fullscreen.html",
+			"settings":
+			{
+				"buffer_size": 432,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/partial-login.html",
+			"settings":
+			{
+				"buffer_size": 776,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/partial-section1.html",
+			"settings":
+			{
+				"buffer_size": 709,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/partial-section2.html",
+			"settings":
+			{
+				"buffer_size": 371,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 975,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/main.js",
+			"settings":
+			{
+				"buffer_size": 2314,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/directives/main.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "app.directive"
+			}
+		},
+		{
+			"file": "app/styles/main.less",
+			"settings":
+			{
+				"buffer_size": 844,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower_components/fullpage.js/jquery.fullPage.js",
+			"settings":
+			{
+				"buffer_size": 48216,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/LESS-build/LESS.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format Code"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/slide-webcast-v2/app/scripts/factories/main.js",
+		"/C/wamp/www/slide-webcast-v2/app/views/partial-section3.html",
+		"/C/wamp/www/slide-webcast-v2/app/views/partial-section4.html",
+		"/C/wamp/www/slide-webcast-v2/app/views/partial-section2.html",
+		"/C/wamp/www/slide-webcast-v2/app/views/partial-section1.html",
+		"/C/wamp/www/slide-webcast-v2/app/views/partial-fullscreen.html",
+		"/C/wamp/www/slide-webcast-v2/app/index.html",
+		"/C/wamp/www/slide-webcast-v2/app/styles/main.css",
+		"/C/wamp/www/slide-webcast-v2/app/views/partial-home.html",
+		"/C/wamp/www/slide-webcast-v2/app/views/main.html",
+		"/C/wamp/www/slide-webcast-v2/app/scripts/app.js",
+		"/C/wamp/www/slide-webcast-v2/bower.json",
+		"/C/wamp/www/slide-webcast-v1/package.json",
+		"/C/Users/dillon.lee/AppData/Roaming/npm/node_modules/grunt-cli/package.json",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp10172/public_html/digital_chameleon-uk_com/contact_list/js/controllers/app.js",
+		"/C/Users/dillon.lee/Downloads/responsive-checkout-progress-bar/index.html",
+		"/C/wamp/www/work-request/app/styles/main.css",
+		"/C/wamp/www/work-request/app/scripts/main.js",
+		"/C/wamp/www/work-request/app/partials/partial-stage1.html",
+		"/C/wamp/www/work-request/app/scripts/app.js",
+		"/C/wamp/www/work-request/app/partials/partial-stage3.html",
+		"/C/wamp/www/work-request/app/partials/partial-stage2.html",
+		"/C/wamp/www/work-request/bower.json",
+		"/C/wamp/www/work-request/app/index.html",
+		"/C/wamp/www/work-request/app/partials/partial-job-info.html",
+		"/C/wamp/www/work-request/app/partials/partial-home.html",
+		"/C/wamp/www/work-request/Gruntfile.js",
+		"/C/wamp/www/work-request/test/index.html",
+		"/C/wamp/www/work-request/test/bower.json",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp01963/test1/clinical-trials/js/app.js",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp03489/test1/clinical-trials/js/partials/popup8.html",
+		"/C/wamp/www/js-test/index.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp50010/test1/clinical-trials/css/main.css",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp03934/test1/clinical-trials/js/partials/popup9.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp04314/test1/clinical-trials/index.php",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp06402/test1/clinical-trials/js/partials/popup7.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp57977/test1/clinical-trials/js/partials/popup5.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp57353/test1/clinical-trials/js/partials/popup6.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp57905/test1/clinical-trials/js/partials/popup4.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp53863/test1/clinical-trials/index.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp57393/test1/clinical-trials/js/partials/popup3.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp57545/test1/clinical-trials/js/partials/popup2.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp02880/test1/clinical-trials/js/partials/popup1.html",
+		"/C/wamp/www/clinical-trials/js/partials/popup1.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp51401/test1/clinical-trials/index.html",
+		"/C/wamp/www/clinical-trials/js/partials/popup7.html",
+		"/C/wamp/www/clinical-trials/js/partials/popup6.html",
+		"/C/wamp/www/clinical-trials/js/partials/popup5.html",
+		"/C/wamp/www/clinical-trials/js/partials/popup4.html",
+		"/C/wamp/www/clinical-trials/js/partials/popup3.html",
+		"/C/wamp/www/clinical-trials/js/partials/popup2.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp15865/test1/clinical-trials/css/main.css",
+		"/C/wamp/www/clinical-trials/js/directives/app.js",
+		"/C/wamp/www/clinical-trials/js/main.js",
+		"/C/wamp/www/clinical-trials/js/vendor/angular-animate.min.js",
+		"/C/wamp/www/clinical-trials/js/app.js",
+		"/C/wamp/www/clinical-trials/js/vendor/angular-ui-router.min.js",
+		"/C/wamp/www/clinical-trials/js/vendor/app.js",
+		"/C/wamp/www/teva-clinical-trials/index.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp24520/innovate/sheffield/index.htm",
+		"/C/wamp/www/clinical-trials/css/normalize.css",
+		"/C/wamp/www/clinical-trials/index.html",
+		"/C/wamp/www/clinical-trials/css/style.css",
+		"/C/wamp/www/clinical-trials/js/script.js",
+		"/C/Users/dillon.lee/Downloads/html5-boilerplate-4.3.0/css/normalize.css",
+		"/C/wamp/www/revolade/assets/slide_3_4_4.html",
+		"/C/wamp/www/revolade/assets/slide_3_3_3.html",
+		"/C/wamp/www/revolade/assets/slide_3_3_9.html",
+		"/C/wamp/www/revolade/assets/slide_sa3.html",
+		"/C/wamp/www/revolade/assets/slide_3_3_1-3.html",
+		"/C/wamp/www/revolade/assets/slide_3_3_1-1.html",
+		"/C/wamp/www/revolade/assets/slide_3_2_1.html",
+		"/C/wamp/www/revolade/assets/slide_2_8_1-1.html",
+		"/C/wamp/www/revolade/assets/slide_2_2_2-2.html",
+		"/C/wamp/www/revolade/assets/slide_2_2_2-1.html",
+		"/C/wamp/www/revolade/assets/slide_2_9_1.html",
+		"/C/Users/dillon.lee/AppData/Local/Temp/scp33137/tools/admin/system/core/Security.php",
+		"/C/wamp/www/revolade/assets/slide_2_8_2-2.html",
+		"/C/wamp/www/revolade/assets/slide_2_8_2-1.html",
+		"/C/wamp/www/revolade/assets/slide_2_8_1-2.html",
+		"/C/wamp/www/revolade/assets/slide_2_7_3.html",
+		"/C/wamp/www/revolade/assets/slide_2_7_2.html",
+		"/C/wamp/www/revolade/assets/slide_2_6_3.html",
+		"/C/wamp/www/revolade/assets/slide_2_6_4.html",
+		"/C/wamp/www/revolade/assets/slide_2_7_1.html",
+		"/C/wamp/www/revolade/assets/slide_2_6_2-5.html",
+		"/C/wamp/www/revolade/assets/slide_2_6_2-7.html",
+		"/C/wamp/www/revolade/assets/slide_2_6_2-6.html",
+		"/C/wamp/www/revolade/assets/slide_2_6_2-4.html",
+		"/C/wamp/www/revolade/assets/slide_2_6_2-3.html",
+		"/C/wamp/www/revolade/assets/slide_2_6_2-2.html",
+		"/C/wamp/www/revolade/assets/slide_2_6_2-1.html",
+		"/C/wamp/www/revolade/assets/slide_2_6_1.html",
+		"/C/wamp/www/revolade/assets/slide_2_5_3.html",
+		"/C/wamp/www/revolade/assets/slide_2_5_2.html",
+		"/C/wamp/www/revolade/assets/slide_2_5_1.html",
+		"/C/wamp/www/revolade/assets/slide_2_4_3.html",
+		"/C/wamp/www/revolade/assets/slide_2_4_2.html",
+		"/C/wamp/www/revolade/assets/slide_2_4_1.html",
+		"/C/wamp/www/revolade/assets/slide_2_3_2-3.html",
+		"/C/wamp/www/revolade/assets/slide_2_3_1-2.html",
+		"/C/wamp/www/revolade/assets/slide_2_3_2-2.html",
+		"/C/wamp/www/revolade/assets/slide_2_3_2-1.html",
+		"/C/wamp/www/revolade/assets/library/_refs.html",
+		"/C/wamp/www/revolade/assets/slide_2_3_1-1.html",
+		"/C/wamp/www/revolade/assets/slide_2_2_4-2.html",
+		"/C/wamp/www/revolade/assets/slide_2_2_4-1.html",
+		"/C/wamp/www/revolade/assets/slide_2_2_3.html",
+		"/C/wamp/www/revolade/assets/slide_2_1_1-2.html",
+		"/C/wamp/www/revolade/assets/slide_2_2_1.html",
+		"/C/wamp/www/revolade/assets/slide_2_1_1-1.html",
+		"/C/wamp/www/revolade/assets/slide_1_4_1-2.html",
+		"/C/wamp/www/revolade/assets/slide_1_4_1-1.html",
+		"/C/wamp/www/revolade/assets/slide_1_4_1-3.html",
+		"/C/wamp/www/revolade/assets/slide_1_3_3.html",
+		"/C/wamp/www/revolade/assets/slide_1_3_2-4.html",
+		"/C/wamp/www/revolade/assets/slide_1_2_2.html",
+		"/C/wamp/www/revolade/assets/slide_1_3_2-3.html",
+		"/C/wamp/www/revolade/assets/slide_1_3_1.html",
+		"/C/wamp/www/revolade/assets/slide_1_3_2-2.html",
+		"/C/wamp/www/revolade/assets/slide_1_3_2-1.html",
+		"/C/wamp/www/revolade/assets/slide_1_2_1-2.html",
+		"/C/wamp/www/revolade/assets/slide_1_1_4.html",
+		"/C/wamp/www/revolade/assets/slide_1_1_5.html",
+		"/C/wamp/www/revolade/assets/slide_1_2_1-1.html",
+		"/C/wamp/www/revolade/assets/slide_1_2.html",
+		"/C/wamp/www/revolade/assets/slide_1_1_1.html",
+		"/C/wamp/www/revolade/assets/slide_1_1_2.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user",
+			"state",
+			".off",
+			".on",
+			".live",
+			".on",
+			"loaded",
+			".on",
+			"on.",
+			".on",
+			"AllIncludeContentLoadedDemo",
+			"contr",
+			"controller",
+			"MainCtrl",
+			"				\n",
+			"active",
+			"required",
+			"ng-if=\"",
+			"ng-model=\"",
+			";\n",
+			"selec",
+			"stageNum",
+			"required",
+			"panel2",
+			"required",
+			"panel3",
+			"marked",
+			"panel3",
+			"panel2",
+			"panel1",
+			"age",
+			"Same as current",
+			"submitted: January 11, 2010)",
+			"T1",
+			"Study Arm",
+			"opacity",
+			"view",
+			" class=\"odd\"",
+			"font-fam",
+			"font",
+			"davies",
+			"media",
+			"slide",
+			"module3",
+			"home",
+			"{\n    \"presentation\": [\n        {\n            \"title\": \"Revolade Training Tool\",\n            \"thumbnailPath\": \"media/images/thumbs/\",\n            \"assetPathPrefix\": \"\",\n            \"vocPath\": \"assets/voc.html\",\n            \"assetRoot\": \"assets/\",\n            \"showSiteMapButton\": \"false\",\n            \"sections\": [\n                {\n                    \"title\": \"Severe Aplastic Anaemia\",\n                    \"scenes\": [\n                        {\n                            \"title\": \"Home\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"home\",\n                            \"thumbnail\": \"home.png\",\n                            \"isHome\": \"true\",\n                            \"trackingPath\": \"sample/home\",\n                            \"assetPath\": \"assets/home.html\"\n                        }\n                    ]\n                },\n                {\n                    \"title\": \"Module 1: Composition and ...\",\n                    \"scenes\": [\n                        {\n                            \"title\": \"Module Overview\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"mod_1_home\",\n                            \"thumbnail\": \"mod_1_home.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/mod_1_home\",\n                            \"assetPath\": \"assets/mod_1_home.html\"\n                        },\n                        {\n                            \"title\": \"Section 1.1: Composition of the blood\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_1\",\n                            \"thumbnail\": \"slide_1_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_1\",\n                            \"assetPath\": \"assets/slide_1_1.html\"\n                        },\n                        {\n                            \"title\": \"The blood\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_1_1\",\n                            \"thumbnail\": \"slide_1_1_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_1_1\",\n                            \"assetPath\": \"assets/slide_1_1_1.html\"\n                        },\n                        {\n                            \"title\": \"Erythrocytes (red blood cells)\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_1_2\",\n                            \"thumbnail\": \"slide_1_1_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_1_2\",\n                            \"assetPath\": \"assets/slide_1_1_2.html\"\n                        },\n                        {\n                            \"title\": \"Leukocytes (white blood cells)\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_1_3-1\",\n                            \"thumbnail\": \"slide_1_1_3-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_1_3-1\",\n                            \"assetPath\": \"assets/slide_1_1_3-1.html\"\n                        },\n                        {\n                            \"title\": \"White blood cell subtypes and ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_1_3-2\",\n                            \"thumbnail\": \"slide_1_1_3-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_1_3-2\",\n                            \"assetPath\": \"assets/slide_1_1_3-2.html\"\n                        },\n                        {\n                            \"title\": \"Thrombocytes (platelets)\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_1_4\",\n                            \"thumbnail\": \"slide_1_1_4.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_1_4\",\n                            \"assetPath\": \"assets/slide_1_1_4.html\"\n                        },\n                        {\n                            \"title\": \"Full blood count\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_1_5\",\n                            \"thumbnail\": \"slide_1_1_5.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_1_5\",\n                            \"assetPath\": \"assets/slide_1_1_5.html\"\n                        },\n                        {\n                            \"title\": \"Section 1.2: The bone marrow\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_2\",\n                            \"thumbnail\": \"slide_1_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_2\",\n                            \"assetPath\": \"assets/slide_1_2.html\"\n                        },\n                        {\n                            \"title\": \"The bone marrow is the site of ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_2_1-1\",\n                            \"thumbnail\": \"slide_1_2_1-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_2_1-1\",\n                            \"assetPath\": \"assets/slide_1_2_1-1.html\"\n                        },\n                        {\n                            \"title\": \"Bone marrow stroma\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_2_1-2\",\n                            \"thumbnail\": \"slide_1_2_1-2.png\",\n                            \"trackingPath\": \"sample/slide_1_2_1-2\",\n                            \"assetPath\": \"assets/slide_1_2_1-2.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Thrombopoietin and thrombop...\",\n                                    \"name\": \"slide_1_2_1a\",\n                                    \"thumbnail\": \"slide_1_2_1a.png\",\n                                    \"trackingPath\": \"sample/slide_1_2_1a\",\n                                    \"assetPath\": \"assets/slide_1_2_1-2.html?1\"\n                                },\n                                {\n                                    \"title\": \"The thrombopoietin receptor is ...\",\n                                    \"name\": \"slide_1_2_1b\",\n                                    \"thumbnail\": \"slide_1_2_1b.png\",\n                                    \"trackingPath\": \"sample/slide_1_2_1b\",\n                                    \"assetPath\": \"assets/slide_1_2_1-2.html?2\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"The bone marrow stroma supports ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_2_2\",\n                            \"thumbnail\": \"slide_1_2_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_2_2\",\n                            \"assetPath\": \"assets/slide_1_2_2.html\"\n                        },\n                        {\n                            \"title\": \"Section 1.3: Haematopoiesis\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_3\",\n                            \"thumbnail\": \"slide_1_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_3\",\n                            \"assetPath\": \"assets/slide_1_3.html\"\n                        },\n                        {\n                            \"title\": \"Haematopoiesis in adults: overview\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_3_1\",\n                            \"thumbnail\": \"slide_1_3_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_3_1\",\n                            \"assetPath\": \"assets/slide_1_3_1.html\"\n                        },\n                        {\n                            \"title\": \"Erythropoiesis\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_3_2-1\",\n                            \"thumbnail\": \"slide_1_3_2-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_3_2-1\",\n                            \"assetPath\": \"assets/slide_1_3_2-1.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Embryonic and fetal ...\",\n                                    \"name\": \"slide_1_3_2_1a\",\n                                    \"thumbnail\": \"slide_1_3_2-1a.png\",\n                                    \"trackingPath\": \"sample/slide_1_3_2-1a\",\n                                    \"assetPath\": \"assets/slide_1_3_2-1.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Myelopoiesis\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_3_2-2\",\n                            \"thumbnail\": \"slide_1_3_2-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_3_2-2\",\n                            \"assetPath\": \"assets/slide_1_3_2-2.html\"\n                        },\n                        {\n                            \"title\": \"Thrombopoiesis\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_3_2-3\",\n                            \"thumbnail\": \"slide_1_3_2-3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_3_2-3\",\n                            \"assetPath\": \"assets/slide_1_3_2-3.html\"\n                        },\n                        {\n                            \"title\": \"Lymphopoiesis\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_3_2-4\",\n                            \"thumbnail\": \"slide_1_3_2-4.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_3_2-4\",\n                            \"assetPath\": \"assets/slide_1_3_2-4.html\"\n                        },\n                        {\n                            \"title\": \"Role of cytokines in haematopoietic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_3_3\",\n                            \"thumbnail\": \"slide_1_3_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_3_3\",\n                            \"assetPath\": \"assets/slide_1_3_3.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"The main haematopoietic cytokines\",\n                                    \"name\": \"slide_1_3_3a\",\n                                    \"thumbnail\": \"slide_1_3_3a.png\",\n                                    \"trackingPath\": \"sample/slide_1_3_3a\",\n                                    \"assetPath\": \"assets/slide_1_3_3.html?1\"\n                                },\n                                {\n                                    \"title\": \"B-cell and T-cell differentiation ...\",\n                                    \"name\": \"slide_1_3_3b\",\n                                    \"thumbnail\": \"slide_1_3_3b.png\",\n                                    \"trackingPath\": \"sample/slide_1_3_3b\",\n                                    \"assetPath\": \"assets/slide_1_3_3.html?2\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Section 1.4: The immune response ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_4\",\n                            \"thumbnail\": \"slide_1_4.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_4\",\n                            \"assetPath\": \"assets/slide_1_4.html\"\n                        },\n                        {\n                            \"title\": \"Innate immunity\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_4_1-1\",\n                            \"thumbnail\": \"slide_1_4_1-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_4_1-1\",\n                            \"assetPath\": \"assets/slide_1_4_1-1.html\"\n                        },\n                        {\n                            \"title\": \"Adaptive immunity: humoral response\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_4_1-2\",\n                            \"thumbnail\": \"slide_1_4_1-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_4_1-2\",\n                            \"assetPath\": \"assets/slide_1_4_1-2.html\"\n                        },\n                        {\n                            \"title\": \"Adaptive immunity: cell-mediated ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_4_1-3\",\n                            \"thumbnail\": \"slide_1_4_1-3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_4_1-3\",\n                            \"assetPath\": \"assets/slide_1_4_1-3.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"T-cell-mediated immune response\",\n                                    \"name\": \"slide_1_4_1a\",\n                                    \"thumbnail\": \"slide_1_4_1a.png\",\n                                    \"trackingPath\": \"sample/slide_1_4_1a\",\n                                    \"assetPath\": \"assets/slide_1_4_1-3.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Principles of autoimmunity\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_4_2\",\n                            \"thumbnail\": \"slide_1_4_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_4_2\",\n                            \"assetPath\": \"assets/slide_1_4_2.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"T-cell-signalling and auto...\",\n                                    \"name\": \"slide_1_4_2a\",\n                                    \"thumbnail\": \"slide_1_4_2a.png\",\n                                    \"trackingPath\": \"sample/slide_1_4_2a\",\n                                    \"assetPath\": \"assets/slide_1_4_2.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Summary\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_1_4_3\",\n                            \"thumbnail\": \"slide_1_4_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_1_4_3\",\n                            \"assetPath\": \"assets/slide_1_4_3.html\"\n                        }\n                    ]\n                },\n                {\n                    \"title\": \"Module 1: Glossary\",\n                    \"scenes\": [\n                        {\n                            \"title\": \"Glossary\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_g_1_1\",\n                            \"thumbnail\": \"slide_g_1_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_g_1_1\",\n                            \"assetPath\": \"assets/slide_g_1_1.html\"\n                        }\n                    ]\n                },\n                {\n                    \"title\": \"Module 1: Self Assessment\",\n                    \"scenes\": [\n                        {\n                            \"title\": \"Home\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_sa_1\",\n                            \"thumbnail\": \"slide_sa_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_sa_1\",\n                            \"assetPath\": \"assets/slide_sa_1.html\"\n                        },\n                        {\n                            \"title\": \"Questions\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_sa\",\n                            \"thumbnail\": \"slide_sa.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_sa\",\n                            \"assetPath\": \"assets/slide_sa.html\"\n                        }\n                    ]\n                },\n                {\n                    \"title\": \"Module 2\",\n                    \"scenes\": [\n                        {\n                            \"title\": \"Module Overview\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"mod_2_home\",\n                            \"thumbnail\": \"mod_2_home.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/mod_2_home\",\n                            \"assetPath\": \"assets/mod_2_home.html\"\n                        },\n                        {\n                            \"title\": \"Section 2.1: Epidemiology of aplastic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_1\",\n                            \"thumbnail\": \"slide_2_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_1\",\n                            \"assetPath\": \"assets/slide_2_1.html\"\n                        },\n                        {\n                            \"title\": \"Aplastic anaemia is a consequence ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_1_1-1\",\n                            \"thumbnail\": \"slide_2_1_1-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_1_1-1\",\n                            \"assetPath\": \"assets/slide_2_1_1-1.html\"\n                        },\n                        {\n                            \"title\": \"Global distribution of aplastic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_1_1-2\",\n                            \"thumbnail\": \"slide_2_1_1-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_1_1-2\",\n                            \"assetPath\": \"assets/slide_2_1_1-2.html\"\n                        },\n                        {\n                            \"title\": \"Section 2.2: Aetiology of aplastic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_2\",\n                            \"thumbnail\": \"slide_2_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_2\",\n                            \"assetPath\": \"assets/slide_2_2.html\"\n                        },\n                        {\n                            \"title\": \"Classification of aplastic anaemia\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_2_1\",\n                            \"thumbnail\": \"slide_2_2_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_2_1\",\n                            \"assetPath\": \"assets/slide_2_2_1.html\"\n                        },\n                        {\n                            \"title\": \"Aplastic anaemia: general overview\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_2_2-1\",\n                            \"thumbnail\": \"slide_2_2_2-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_2_2-1\",\n                            \"assetPath\": \"assets/slide_2_2_2-1.html\"\n                        },\n                        {\n                            \"title\": \"Classification of aplastic anaemia\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_2_2-2\",\n                            \"thumbnail\": \"slide_2_2_2-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_2_2-2\",\n                            \"assetPath\": \"assets/slide_2_2_2-2.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Aplastic anaemia: characteristics ...\",\n                                    \"name\": \"slide_2_2_2-2a\",\n                                    \"thumbnail\": \"slide_2_2_2-2a.png\",\n                                    \"trackingPath\": \"sample/slide_2_2_2-2a\",\n                                    \"assetPath\": \"assets/slide_2_2_2-2.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Inherited aplastic anaemia: general ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_3_3\",\n                            \"thumbnail\": \"slide_2_2_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_2_3\",\n                            \"assetPath\": \"assets/slide_2_2_3.html\"\n                        },\n                        {\n                            \"title\": \"Acquired aplastic anaemia: general ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_3_4-1\",\n                            \"thumbnail\": \"slide_2_2_4-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_2_4-1\",\n                            \"assetPath\": \"assets/slide_2_2_4-1.html\"\n                        },\n                        {\n                            \"title\": \"Acquired aplastic anaemia: clinical ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_3_4-2\",\n                            \"thumbnail\": \"slide_2_2_4-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_2_4-2\",\n                            \"assetPath\": \"assets/slide_2_2_4-2.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Inherited bone marrow failure ...\",\n                                    \"name\": \"slide_2_2_4a\",\n                                    \"thumbnail\": \"slide_2_2_4a.png\",\n                                    \"trackingPath\": \"sample/slide_2_2_4a\",\n                                    \"assetPath\": \"assets/slide_2_2_4-2.html?1\"\n                                },\n                                {\n                                    \"title\": \"Acquired aplastic anaemia: other ...\",\n                                    \"name\": \"slide_2_2_4b\",\n                                    \"thumbnail\": \"slide_2_2_4b.png\",\n                                    \"trackingPath\": \"sample/slide_2_2_4b\",\n                                    \"assetPath\": \"assets/slide_2_2_4-2.html?2\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Section 2.3: Pathophysiology of ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_3\",\n                            \"thumbnail\": \"slide_2_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_3\",\n                            \"assetPath\": \"assets/slide_2_3.html\"\n                        },\n                        {\n                            \"title\": \"Pathophysiology of acquired aplastic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_3_1-1\",\n                            \"thumbnail\": \"slide_2_3_1-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_3_1-1\",\n                            \"assetPath\": \"assets/slide_2_3_1-1.html\"\n                        },\n                        {\n                            \"title\": \"Pathophysiology of acquired aplastic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_3_1-2\",\n                            \"thumbnail\": \"slide_2_3_1-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_3_1-2\",\n                            \"assetPath\": \"assets/slide_2_3_1-2.html\"\n                        },\n                        {\n                            \"title\": \"Pathophysiology of acquired aplastic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_3_2-1\",\n                            \"thumbnail\": \"slide_2_3_2-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_3_2-1\",\n                            \"assetPath\": \"assets/slide_2_3_2-1.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Aberrant immune response directed ...\",\n                                    \"name\": \"slide_2_3_2a\",\n                                    \"thumbnail\": \"slide_2_3_2a.png\",\n                                    \"trackingPath\": \"sample/slide_2_3_2a\",\n                                    \"assetPath\": \"assets/slide_2_3_2-1.html?1\"\n                                },\n                                {\n                                    \"title\": \"Destruction of the bone marrow ...\",\n                                    \"name\": \"slide_2_3_2b\",\n                                    \"thumbnail\": \"slide_2_3_2b.png\",\n                                    \"trackingPath\": \"sample/slide_2_3_2b\",\n                                    \"assetPath\": \"assets/slide_2_3_2-1.html?2\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"The impact of T-cell-mediated ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_3_2-2\",\n                            \"thumbnail\": \"slide_2_3_2-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_3_2-2\",\n                            \"assetPath\": \"assets/slide_2_3_2-2.html\"\n                        },\n                        {\n                            \"title\": \"Natural history of acquired ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_3_2-3\",\n                            \"thumbnail\": \"slide_2_3_2-3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_3_2-3\",\n                            \"assetPath\": \"assets/slide_2_3_2-3.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Cytogenetic abnormalities in severe ...\",\n                                    \"name\": \"slide_2_3_2c\",\n                                    \"thumbnail\": \"slide_2_3_2c.png\",\n                                    \"trackingPath\": \"sample/slide_2_3_2c\",\n                                    \"assetPath\": \"assets/slide_2_3_2-3.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Section 2.4: Diagnosis of aplastic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_4\",\n                            \"thumbnail\": \"slide_2_4.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_4\",\n                            \"assetPath\": \"assets/slide_2_4.html\"\n                        },\n                        {\n                            \"title\": \"Diagnosis of acquired aplastic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_4_1\",\n                            \"thumbnail\": \"slide_2_4_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_4_1\",\n                            \"assetPath\": \"assets/slide_2_4_1.html\"\n                        },\n                        {\n                            \"title\": \"Investigations required for the ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_4_2\",\n                            \"thumbnail\": \"slide_2_4_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_4_2\",\n                            \"assetPath\": \"assets/slide_2_4_2.html\"\n                        },\n                        {\n                            \"title\": \"Differential diagnosis of pancytopenia\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_4_3\",\n                            \"thumbnail\": \"slide_2_4_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_4_3\",\n                            \"assetPath\": \"assets/slide_2_4_3.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Differential diagnosis of pancytopenia\",\n                                    \"name\": \"slide_2_4_3a\",\n                                    \"thumbnail\": \"slide_2_4_3a.png\",\n                                    \"trackingPath\": \"sample/slide_2_4_3a\",\n                                    \"assetPath\": \"assets/slide_2_4_3.html?1\"\n                                },\n                                {\n                                    \"title\": \"Differential diagnosis: aplastic crisis ...\",\n                                    \"name\": \"slide_2_4_3b\",\n                                    \"thumbnail\": \"slide_2_4_3b.png\",\n                                    \"trackingPath\": \"sample/slide_2_4_3b\",\n                                    \"assetPath\": \"assets/slide_2_4_3.html?2\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Section 2.5: AplasticÂ anaemia: the ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_5\",\n                            \"thumbnail\": \"slide_2_5.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_5\",\n                            \"assetPath\": \"assets/slide_2_5.html\"\n                        },\n                        {\n                            \"title\": \"The patient journey: from ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_5_1\",\n                            \"thumbnail\": \"slide_2_5_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_5_1\",\n                            \"assetPath\": \"assets/slide_2_5_1.html\"\n                        },\n                        {\n                            \"title\": \"The patient journey: treatments ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_5_2\",\n                            \"thumbnail\": \"slide_2_5_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_5_2\",\n                            \"assetPath\": \"assets/slide_2_5_2.html\"\n                        },\n                        {\n                            \"title\": \"The patient journey: relapsed ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_5_3\",\n                            \"thumbnail\": \"slide_2_5_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_5_3\",\n                            \"assetPath\": \"assets/slide_2_5_3.html\"\n                        },\n                        {\n                            \"title\": \"Section 2.6: Current standards of ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_6\",\n                            \"thumbnail\": \"slide_2_6.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_6\",\n                            \"assetPath\": \"assets/slide_2_6.html\"\n                        },\n                        {\n                            \"title\": \"Acquired aplastic anaemia treatment: ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_6_1\",\n                            \"thumbnail\": \"slide_2_6_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_6_1\",\n                            \"assetPath\": \"assets/slide_2_6_1.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Supportive care considerations ...\",\n                                    \"name\": \"slide_2_6_1a\",\n                                    \"thumbnail\": \"slide_2_6_1a.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_1a\",\n                                    \"assetPath\": \"assets/slide_2_6_1.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Definitive care in severe ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_6_2-1\",\n                            \"thumbnail\": \"slide_2_6_2-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_6_2-1\",\n                            \"assetPath\": \"assets/slide_2_6_2-1.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Haematopoietic stem cell ...\",\n                                    \"name\": \"slide_2_6_2a\",\n                                    \"thumbnail\": \"slide_2_6_2a.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_2a\",\n                                    \"assetPath\": \"assets/slide_2_6_2-1.html?1\"\n                                },\n                                {\n                                    \"title\": \"Allogeneic sibling haematopoietic ...\",\n                                    \"name\": \"slide_2_6_2b\",\n                                    \"thumbnail\": \"slide_2_6_2b.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_2b\",\n                                    \"assetPath\": \"assets/slide_2_6_2-1.html?2\"\n                                },\n                                {\n                                    \"title\": \"Unrelated donor transplantation ...\",\n                                    \"name\": \"slide_2_6_2c\",\n                                    \"thumbnail\": \"slide_2_6_2c.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_2c\",\n                                    \"assetPath\": \"assets/slide_2_6_2-1.html?3\"\n                                },\n                                {\n                                    \"title\": \"Survival is lower in patients ...\",\n                                    \"name\": \"slide_2_6_2d\",\n                                    \"thumbnail\": \"slide_2_6_2d.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_2d\",\n                                    \"assetPath\": \"assets/slide_2_6_2-1.html?4\"\n                                },\n                                {\n                                    \"title\": \"Umbilical cord blood transplantation\",\n                                    \"name\": \"slide_2_6_2e\",\n                                    \"thumbnail\": \"slide_2_6_2e.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_2e\",\n                                    \"assetPath\": \"assets/slide_2_6_2-1.html?5\"\n                                },\n                                {\n                                    \"title\": \"Transplantation protocols\",\n                                    \"name\": \"slide_2_6_2f\",\n                                    \"thumbnail\": \"slide_2_6_2f.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_2f\",\n                                    \"assetPath\": \"assets/slide_2_6_2-1.html?6\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Definitive care in severe ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_6_2-2\",\n                            \"thumbnail\": \"slide_2_6_2-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_6_2-2\",\n                            \"assetPath\": \"assets/slide_2_6_2-2.html\"\n                        },\n                        {\n                            \"title\": \"Immunosuppressive therapy: ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_6_2-3\",\n                            \"thumbnail\": \"slide_2_6_2-3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_6_2-3\",\n                            \"assetPath\": \"assets/slide_2_6_2-3.html\"\n                        },\n                        {\n                            \"title\": \"Stem cell depletion may ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_6_2-4\",\n                            \"thumbnail\": \"slide_2_6_2-4.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_6_2-4\",\n                            \"assetPath\": \"assets/slide_2_6_2-4.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Definitive care in severe ...\",\n                                    \"name\": \"slide_2_6_2g\",\n                                    \"thumbnail\": \"slide_2_6_2g.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_2g\",\n                                    \"assetPath\": \"assets/slide_2_6_2-4.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Treatment of relapsed severe ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_6_2-5\",\n                            \"thumbnail\": \"slide_2_6_2-5.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_6_2-5\",\n                            \"assetPath\": \"assets/slide_2_6_2-5.html\"\n                        },\n                        {\n                            \"title\": \"Treatment of refractory severe ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_6_2-6\",\n                            \"thumbnail\": \"slide_2_6_2-6.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_6_2-6\",\n                            \"assetPath\": \"assets/slide_2_6_2-6.html\"\n                        },\n                        {\n                            \"title\": \"Supportive care in severe ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_6_2-7\",\n                            \"thumbnail\": \"slide_2_6_2-7.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_6_2-7\",\n                            \"assetPath\": \"assets/slide_2_6_2-7.html\"\n                        },\n                        {\n                            \"title\": \"New approaches in severe ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_6_3\",\n                            \"thumbnail\": \"slide_2_6_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_6_3\",\n                            \"assetPath\": \"assets/slide_2_6_3.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Unmet needs in the treatment ...\",\n                                    \"name\": \"slide_2_6_3a\",\n                                    \"thumbnail\": \"slide_2_6_3a.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_3a\",\n                                    \"assetPath\": \"assets/slide_2_6_3.html?1\"\n                                },\n                                {\n                                    \"title\": \"Investigational therapies in severe ...\",\n                                    \"name\": \"slide_2_6_3b\",\n                                    \"thumbnail\": \"slide_2_6_3b.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_3b\",\n                                    \"assetPath\": \"assets/slide_2_6_3.html?2\"\n                                },\n                                {\n                                    \"title\": \"Ongoing investigator-led trials ...\",\n                                    \"name\": \"slide_2_6_3c\",\n                                    \"thumbnail\": \"slide_2_6_3c.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_3c\",\n                                    \"assetPath\": \"assets/slide_2_6_3.html?3\"\n                                },\n                                {\n                                    \"title\": \"Limited advances in novel ...\",\n                                    \"name\": \"slide_2_6_3d\",\n                                    \"thumbnail\": \"slide_2_6_3d.png\",\n                                    \"trackingPath\": \"sample/slide_2_6_3d\",\n                                    \"assetPath\": \"assets/slide_2_6_3.html?4\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Acquired aplastic anaemia ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_6_4\",\n                            \"thumbnail\": \"slide_2_6_4.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_6_4\",\n                            \"assetPath\": \"assets/slide_2_6_4.html\"\n                        },\n                        {\n                            \"title\": \"Section 2.7: Prognosis of aplastic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_7\",\n                            \"thumbnail\": \"slide_2_7.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_7\",\n                            \"assetPath\": \"assets/slide_2_7.html\"\n                        },\n                        {\n                            \"title\": \"Outcomes in severe aplastic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_7_1\",\n                            \"thumbnail\": \"slide_2_7_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_7_1\",\n                            \"assetPath\": \"assets/slide_2_7_1.html\"\n                        },\n                        {\n                            \"title\": \"Improved survival following ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_7_2\",\n                            \"thumbnail\": \"slide_2_7_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_7_2\",\n                            \"assetPath\": \"assets/slide_2_7_2.html\"\n                        },\n                        {\n                            \"title\": \"Main causes of morbidity ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_7_3\",\n                            \"thumbnail\": \"slide_2_7_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_7_3\",\n                            \"assetPath\": \"assets/slide_2_7_3.html\"\n                        },\n                        {\n                            \"title\": \"Section 2.8: Guideline ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_8\",\n                            \"thumbnail\": \"slide_2_8.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_8\",\n                            \"assetPath\": \"assets/slide_2_8.html\"\n                        },\n                        {\n                            \"title\": \"Treatment of aplastic anaemia ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_8_1-1\",\n                            \"thumbnail\": \"slide_2_8_1-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_8_1-1\",\n                            \"assetPath\": \"assets/slide_2_8_1-1.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Treatment of aplastic anaemia: ...\",\n                                    \"name\": \"slide_2_8_1a\",\n                                    \"thumbnail\": \"slide_2_8_1a.png\",\n                                    \"trackingPath\": \"sample/slide_2_8_1a\",\n                                    \"assetPath\": \"assets/slide_2_8_1-1.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Treatment of aplastic anaemia: ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_8_1-2\",\n                            \"thumbnail\": \"slide_2_8_1-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_8_1-2\",\n                            \"assetPath\": \"assets/slide_2_8_1-2.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Treatment of aplastic anaemia: ...\",\n                                    \"name\": \"slide_2_8_1b\",\n                                    \"thumbnail\": \"slide_2_8_1b.png\",\n                                    \"trackingPath\": \"sample/slide_2_8_1b\",\n                                    \"assetPath\": \"assets/slide_2_8_1-2.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Management of refractory aplastic ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_8_2-1\",\n                            \"thumbnail\": \"slide_2_8_2-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_8_2-1\",\n                            \"assetPath\": \"assets/slide_2_8_2-1.html\"\n                        },\n                        {\n                            \"title\": \"Long-term follow-up after ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_8_2-2\",\n                            \"thumbnail\": \"slide_2_8_2-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_8_2-2\",\n                            \"assetPath\": \"assets/slide_2_8_2-2.html\"\n                        },\n                        {\n                            \"title\": \"Section 2.9: Cost-effectiveness and ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_9\",\n                            \"thumbnail\": \"slide_2_9.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_9\",\n                            \"assetPath\": \"assets/slide_2_9.html\"\n                        },\n                        {\n                            \"title\": \"Quality-adjusted survival analysis: ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_9_1\",\n                            \"thumbnail\": \"slide_2_9_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_9_1\",\n                            \"assetPath\": \"assets/slide_2_9_1.html\"\n                        },\n                        {\n                            \"title\": \"Summary\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_2_9_2\",\n                            \"thumbnail\": \"slide_2_9_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_2_9_2\",\n                            \"assetPath\": \"assets/slide_2_9_2.html\"\n                        }\n                    ]\n                },\n                {\n                    \"title\": \"Module 2: Glossary\",\n                    \"scenes\": [\n                        {\n                            \"title\": \"Glossary\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_g_1_2\",\n                            \"thumbnail\": \"slide_g_1_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_g_1_2\",\n                            \"assetPath\": \"assets/slide_g_1_2.html\"\n                        }\n                    ]\n                },\n                {\n                    \"title\": \"Module 2: Self Assessment\",\n                    \"scenes\": [\n                        {\n                            \"title\": \"Home\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_sa_2\",\n                            \"thumbnail\": \"slide_sa_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_sa_2\",\n                            \"assetPath\": \"assets/slide_sa_2.html\"\n                        },\n                        {\n                            \"title\": \"Questions\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_sa2\",\n                            \"thumbnail\": \"slide_sa2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_sa2\",\n                            \"assetPath\": \"assets/slide_sa2.html\"\n                        }\n                    ]\n                },\n                {\n                    \"title\": \"Module 3: Eltrombopag in the ...\",\n                    \"scenes\": [\n                        {\n                            \"title\": \"Module Overview\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_1\",\n                            \"thumbnail\": \"slide_3_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_1\",\n                            \"assetPath\": \"assets/slide_3_1.html\"\n                        },\n                        {\n                            \"title\": \"Chemical structure of eltrombopag\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_1_1\",\n                            \"thumbnail\": \"slide_3_1_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_1_1\",\n                            \"assetPath\": \"assets/slide_3_1_1.html\"\n                        },\n                        {\n                            \"title\": \"Eltrombopag interacts with the ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_1_2\",\n                            \"thumbnail\": \"slide_3_1_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_1_2\",\n                            \"assetPath\": \"assets/slide_3_1_2.html\"\n                        },\n                        {\n                            \"title\": \"Eltrombopag in the treatment of ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_2\",\n                            \"thumbnail\": \"slide_3_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_2\",\n                            \"assetPath\": \"assets/slide_3_2.html\"\n                        },\n                        {\n                            \"title\": \"Role of thrombopoietin in ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_2_1\",\n                            \"thumbnail\": \"slide_3_2_1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_2_1\",\n                            \"assetPath\": \"assets/slide_3_2_1.html\"\n                        },\n                        {\n                            \"title\": \"Role of thrombopoietin in ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_2_2\",\n                            \"thumbnail\": \"slide_3_2_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_2_2\",\n                            \"assetPath\": \"assets/slide_3_2_2.html\"\n                        },\n                        {\n                            \"title\": \"Rationale for eltrombopag use ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_2_3\",\n                            \"thumbnail\": \"slide_3_2_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_2_3\",\n                            \"assetPath\": \"assets/slide_3_2_3.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Effect of eltrombopag on ...\",\n                                    \"name\": \"slide_3_2_3a\",\n                                    \"thumbnail\": \"slide_3_2_3a.png\",\n                                    \"trackingPath\": \"sample/slide_3_2_3a\",\n                                    \"assetPath\": \"assets/slide_3_2_3.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Potential outcomes of stem ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_2_4\",\n                            \"thumbnail\": \"slide_3_2_4.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_2_4\",\n                            \"assetPath\": \"assets/slide_3_2_4.html\"\n                        },\n                        {\n                            \"title\": \"Section 3.3 Eltrombopag: clinical data...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3\",\n                            \"thumbnail\": \"slide_3_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3\",\n                            \"assetPath\": \"assets/slide_3_3.html\"\n                        }\n                        {\n                            \"title\": \"Phase II study in refractory ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_1-1\",\n                            \"thumbnail\": \"slide_3_3_1-1.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_1-1\",\n                            \"assetPath\": \"assets/slide_3_3_1-1.html\"\n                        },\n                        {\n                            \"title\": \"Phase II study in refractory ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_1-2\",\n                            \"thumbnail\": \"slide_3_3_1-2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_1-2\",\n                            \"assetPath\": \"assets/slide_3_3_1-2.html\"\n                        },\n                        {\n                            \"title\": \"Phase II study in refractory...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_1-3\",\n                            \"thumbnail\": \"slide_3_3_1-3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_1-3\",\n                            \"assetPath\": \"assets/slide_3_3_1-3.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Phase II study in refractory ...\",\n                                    \"name\": \"slide_3_3_1a\",\n                                    \"thumbnail\": \"slide_3_3_1a.png\",\n                                    \"trackingPath\": \"sample/slide_3_3_1a\",\n                                    \"assetPath\": \"assets/slide_3_3_1-3.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Phase II study in refractory ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_2\",\n                            \"thumbnail\": \"slide_3_3_2.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_2\",\n                            \"assetPath\": \"assets/slide_3_3_2.html\"\n                        },\n                        {\n                            \"title\": \"Phase II study: eltrombopag ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_3\",\n                            \"thumbnail\": \"slide_3_3_3.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_3\",\n                            \"assetPath\": \"assets/slide_3_3_3.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Phase II study in refractory ...\",\n                                    \"name\": \"slide_3_3_3a\",\n                                    \"thumbnail\": \"slide_3_3_3a.png\",\n                                    \"trackingPath\": \"sample/slide_3_3_3a\",\n                                    \"assetPath\": \"assets/slide_3_3_3.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Phase II study in refractory ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_4\",\n                            \"thumbnail\": \"slide_3_3_4.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_4\",\n                            \"assetPath\": \"assets/slide_3_3_4.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Platelet and red blood cell ...\",\n                                    \"name\": \"slide_3_3_4a\",\n                                    \"thumbnail\": \"slide_3_3_4a.png\",\n                                    \"trackingPath\": \"sample/slide_3_3_4a\",\n                                    \"assetPath\": \"assets/slide_3_3_4.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Phase II study in refractory ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_5\",\n                            \"thumbnail\": \"slide_3_3_5.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_5\",\n                            \"assetPath\": \"assets/slide_3_3_5.html\"\n                        },\n                        {\n                            \"title\": \"Phase II study in refractory ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_6\",\n                            \"thumbnail\": \"slide_3_3_6.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_6\",\n                            \"assetPath\": \"assets/slide_3_3_6.html\",\n                            \"secondaryScenes\": [\n                                {\n                                    \"title\": \"Phase II study in refractory ...\",\n                                    \"name\": \"slide_3_3_6a\",\n                                    \"thumbnail\": \"slide_3_3_6a.png\",\n                                    \"trackingPath\": \"sample/slide_3_3_6a\",\n                                    \"assetPath\": \"assets/slide_3_3_6.html?1\"\n                                }\n                            ]\n                        },\n                        {\n                            \"title\": \"Phase II study in refractory ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_7\",\n                            \"thumbnail\": \"slide_3_3_7.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_7\",\n                            \"assetPath\": \"assets/slide_3_3_7.html\"\n                        },\n                        {\n                            \"title\": \"Risk of cytogenetic abnormalities ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_8\",\n                            \"thumbnail\": \"slide_3_3_8.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_8\",\n                            \"assetPath\": \"assets/slide_3_3_8.html\"\n                        },\n                        {\n                            \"title\": \"Risk of cytogenetic abnormalities ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_9\",\n                            \"thumbnail\": \"slide_3_3_9.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_9\",\n                            \"assetPath\": \"assets/slide_3_3_9.html\"\n                        },\n                        {\n                            \"title\": \"Ongoing clinical trials supporting ...\",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_3_10\",\n                            \"thumbnail\": \"slide_3_3_10.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_3_10\",\n                            \"assetPath\": \"assets/slide_3_3_10.html\"\n                        },\n                        {\n                            \"title\": \"Section 3.4: Eltrombopag: SPC/PI \",\n                            \"showInShortCall\": \"true\",\n                            \"name\": \"slide_3_4\",\n                            \"thumbnail\": \"slide_3_4.png\",\n                            \"isHome\": \"false\",\n                            \"trackingPath\": \"sample/slide_3_4\",\n                            \"assetPath\": \"assets/slide_3_4.html\"\n                        }\n                    ]\n                }\n            ],\n            \"linkedDocuments\": [\n                {\n                    \"title\": \"BiancoP-2001-StemCells-v19p180\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"BiancoP.JPG\",\n                    \"trackingPath\": \"mastertemplate/BiancoP\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"BiancoP-2001-StemCells-v19p180.pdf\"\n                },\n                {\n                    \"title\": \"BolonB-2012-ToxicolPathol-v40p216\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"BolonB.JPG\",\n                    \"trackingPath\": \"mastertemplate/BolonB\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"BolonB-2012-ToxicolPathol-v40p216.pdf\"\n                },\n                {\n                    \"title\": \"BrodskyRA-2005-Lancet-v365p1647\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"BrodskyRA.JPG\",\n                    \"trackingPath\": \"mastertemplate/BrodskyRA\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"BrodskyRA-2005-Lancet-v365p1647.pdf\"\n                },\n                {\n                    \"title\": \"ChirumboloS- 2012-BloodTransfus-v10p148\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"ChirumboloS.JPG\",\n                    \"trackingPath\": \"mastertemplate/ChirumboloS\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"ChirumboloS- 2012-BloodTransfus-v10p148.pdf\"\n                },\n                {\n                    \"title\": \"Compston-2002-JEndocrinol-v173p387\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"Compston.JPG\",\n                    \"trackingPath\": \"mastertemplate/Compston\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"Compston-2002-JEndocrinol-v173p387.pdf\"\n                },\n                {\n                    \"title\": \"Deutsch-2006-BJH-v134p453\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"Deutsch.JPG\",\n                    \"trackingPath\": \"mastertemplate/Deutsch\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"Deutsch-2006-BJH-v134p453.pdf\"\n                },\n                {\n                    \"title\": \"HecklD-2011-Blood-v117p3737\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"HecklD.JPG\",\n                    \"trackingPath\": \"mastertemplate/HecklD\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"HecklD-2011-Blood-v117p3737.pdf\"\n                },\n                {\n                    \"title\": \"JanewayC-2001-Immunobiology-v8-Cell-Medicated Immunity\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"JanewayC-2001-Immunobiology-v8-Cell-Medicated Immunity.JPG\",\n                    \"trackingPath\": \"mastertemplate/JanewayC-2001-Immunobiology-v8-Cell-Medicated Immunity\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"JanewayC-2001-Immunobiology-v8-Cell-Medicated Immunity.pdf\"\n                },\n                {\n                    \"title\": \"JanewayC-2001-Immunobiology-v9-Humoral Immunity\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"JanewayC-2001-Immunobiology-v9-Humoral Immunity.JPG\",\n                    \"trackingPath\": \"mastertemplate/JanewayC-2001-Immunobiology-v9-Humoral Immunity\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"JanewayC-2001-Immunobiology-v9-Humoral Immunity.pdf\"\n                },\n                {\n                    \"title\": \"JanewayC-2001-Immunobiologyv-v8-TCell-Mediated Cytotoxicity\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"JanewayC-2001-Immunobiologyv-v8-TCell-Mediated Cytotoxicity.JPG\",\n                    \"trackingPath\": \"mastertemplate/JanewayC-2001-Immunobiologyv-v8-TCell-Mediated Cytotoxicity\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"JanewayC-2001-Immunobiologyv-v8-TCell-Mediated Cytotoxicity.pdf\"\n                },\n                {\n                    \"title\": \"KaushanskyK-1997-StemCells-v15p97\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"KaushanskyK.JPG\",\n                    \"trackingPath\": \"mastertemplate/KaushanskyK\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"KaushanskyK-1997-StemCells-v15p97.pdf\"\n                },\n                {\n                    \"title\": \"MachlusKR-2013-JCellBiol-v201p785\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"MachlusKR.JPG\",\n                    \"trackingPath\": \"mastertemplate/MachlusKR\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"MachlusKR-2013-JCellBiol-v201p785.pdf\"\n                },\n                {\n                    \"title\": \"MetcalfD-2008-Blood-v111p485\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"MetcalfD.JPG\",\n                    \"trackingPath\": \"mastertemplate/MetcalfD\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"MetcalfD-2008-Blood-v111p485.pdf\"\n                },\n                {\n                    \"title\": \"NinosJM-2006-JTranslMed-v4p1\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"NinosJM.JPG\",\n                    \"trackingPath\": \"mastertemplate/NinosJM\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"NinosJM-2006-JTranslMed-v4p1.pdf\"\n                },\n                {\n                    \"title\": \"OrkinS-2008-Cell-v132p631\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"OrkinS.JPG\",\n                    \"trackingPath\": \"mastertemplate/OrkinS\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"OrkinS-2008-Cell-v132p631.pdf\"\n                },\n                {\n                    \"title\": \"Pallister&Watson-2011-Haematology-v1p1-15\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"Pallister&Watson-2011-Haematology-v1p1-15.JPG\",\n                    \"trackingPath\": \"mastertemplate/Pallister&Watson-2011-Haematology-v1p1-15\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"Pallister&Watson-2011-Haematology-v1p1-15.pdf\"\n                },\n                {\n                    \"title\": \"Pallister&Watson-2011-Haematology-v2p17-27\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"Pallister&Watson-2011-Haematology-v2p17-27.JPG\",\n                    \"trackingPath\": \"mastertemplate/Pallister&Watson-2011-Haematology-v2p17-27\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"Pallister&Watson-2011-Haematology-v2p17-27.pdf\"\n                },\n                {\n                    \"title\": \"Pallister&Watson-2011-Haematology-v2p27-35\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"Pallister&Watson-2011-Haematology-v2p27-35.JPG\",\n                    \"trackingPath\": \"mastertemplate/Pallister&Watson-2011-Haematology-v2p27-35\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"Pallister&Watson-2011-Haematology-v2p27-35.pdf\"\n                },\n                {\n                    \"title\": \"Panchbhavi-2013-Overview\",\n                    \"lastUpdated\": \"11/06/20143\",\n                    \"thumbnail\": \"Panchbhavi-2013-Overview.JPG\",\n                    \"trackingPath\": \"mastertemplate/Panchbhavi-2013-Overview\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"Panchbhavi-2013-Overview.pdf\"\n                },\n                {\n                    \"title\": \"PathologicBasisOfDisease-Normal Ref Range Table-2004\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"PathologicBasisOfDisease.JPG\",\n                    \"trackingPath\": \"mastertemplate/PathologicBasisOfDisease\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"PathologicBasisOfDisease-Normal Ref Range Table-2004.pdf\"\n                },\n                {\n                    \"title\": \"RobbL-2007-Cytokine-v26p6715\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"RobbL.JPG\",\n                    \"trackingPath\": \"mastertemplate/RobbL\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"RobbL-2007-Cytokine-v26p6715.pdf\"\n                },\n                {\n                    \"title\": \"RosenbergHF-2013-NatRevImmunol-v13p9\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"RosenbergHF.JPG\",\n                    \"trackingPath\": \"mastertemplate/RosenbergHF\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"RosenbergHF-2013-NatRevImmunol-v13p9.pdf\"\n                },\n                {\n                    \"title\": \"SavoiaA-2007-Haematologica-v92p1186\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"SavoiaA.JPG\",\n                    \"trackingPath\": \"mastertemplate/SavoiaA\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"SavoiaA-2007-Haematologica-v92p1186.pdf\"\n                },\n                {\n                    \"title\": \"TavianM-2005-InJDevBiol-v49p243\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"TavianM.JPG\",\n                    \"trackingPath\": \"mastertemplate/TavianM\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"TavianM-2005-InJDevBiol-v49p243.pdf\"\n                },\n                {\n                    \"title\": \"WalneAJ-2012-Haematologica-v97p524\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"WalneAJ.JPG\",\n                    \"trackingPath\": \"mastertemplate/WalneAJ\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"WalneAJ-2012-Haematologica-v97p524.pdf\"\n                },\n                {\n                    \"title\": \"ZajacAJ-2008-EncyclopediaOfVirology-v3p70\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"ZajacAJ.JPG\",\n                    \"trackingPath\": \"mastertemplate/ZajacAJ\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"ZajacAJ-2008-EncyclopediaOfVirology-v3p70.pdf\"\n                },\n                {\n                    \"title\": \"ZhangC-2008-CurrOpinHematol-v15p307\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"ZhangC.JPG\",\n                    \"trackingPath\": \"mastertemplate/ZhangC\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"ZhangC-2008-CurrOpinHematol-v15p307.pdf\"\n                },\n                {\n                    \"title\": \"AfableM-2011-Haematologica-v96p1269\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"ZhangC.JPG\",\n                    \"trackingPath\": \"mastertemplate/ZhangC\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"AfableM-2011-Haematologica-v96p1269.pdf\"\n                },\n                {\n                    \"title\": \"AfableM-2011-HematolAmSocHematolEducProgram-v2011p90\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"AfableM-2011-HematolAmSocHematolEducProgram-v2011p90.pdf\"\n                },\n                {\n                    \"title\": \"AlterB-HematolAmSocHematolEducProgram -v2007p29\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"AlterB-HematolAmSocHematolEducProgram -v2007p29.pdf\"\n                },\n                {\n                    \"title\": \"AnnualSHOTReport-2011\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"AnnualSHOTReport-2011.pdf\"\n                },\n                {\n                    \"title\": \"AplasticAnaemiaTherapeutics-PipelineAssessment-2012\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"AplasticAnaemiaTherapeutics-PipelineAssessment-2012.pdf\"\n                },\n                {\n                    \"title\": \"AttaE-2010-AnnHaematol-v89p851\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"AttaE-2010-AnnHaematol-v89p851.pdf\"\n                },\n                {\n                    \"title\": \"BacigalupoA-2009-HematolOncolClinNAm-v23p159\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"BacigalupoA-2009-HematolOncolClinNAm-v23p159.pdf\"\n                },\n                {\n                    \"title\": \"BacigalupoA-2010-Haematologica-v95p976\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"BacigalupoA-2010-Haematologica-v95p976.pdf\"\n                },\n                {\n                    \"title\": \"BrodskyRA-2005-Lancet-v365p1647\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"BrodskyRA-2005-Lancet-v365p1647.pdf\"\n                },\n                {\n                    \"title\": \"BrodskyRA-2010-Blood-v115p2136\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"BrodskyRA-2010-Blood-v115p2136.pdf\"\n                },\n                {\n                    \"title\": \"CasadevallN-2002-NEJM-v346p469\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"CasadevallN-2002-NEJM-v346p469.pdf\"\n                },\n                {\n                    \"title\": \"CentreforInternationalBloodandMarrowTransplantResearch-2012\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"CentreforInternationalBloodandMarrowTransplantResearch-2012.pdf\"\n                },\n                {\n                    \"title\": \"ChamplinRE-2007-Blood-v109p4562\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"ChamplinRE-2007-Blood-v109p4562.pdf\"\n                },\n                {\n                    \"title\": \"DaviesJK-2007-BrJHaematol-v136p549\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"DaviesJK-2007-BrJHaematol-v136p549.pdf\"\n                },\n                {\n                    \"title\": \"DeZernA-2011-ExpertRevHematol-v4p221\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"DeZernA-2011-ExpertRevHematol-v4p221.pdf\"\n                },\n                {\n                    \"title\": \"DiBonaE-1999-BrJHaematol-v107p330\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"DiBonaE-1999-BrJHaematol-v107p330.pdf\"\n                },\n                {\n                    \"title\": \"DokalI-2008-BloodRev-v22p141\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"DokalI-2008-BloodRev-v22p141.pdf\"\n                },\n                {\n                    \"title\": \"DrFOJr-PetechialRash-2013\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"DrFOJr-PetechialRash-2013.pdf\"\n                },\n                {\n                    \"title\": \"DutchBloodTransfusionGuidelines-2011\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"DutchBloodTransfusionGuidelines-2011.pdf\"\n                },\n                {\n                    \"title\": \"EapenM-2010-HematolAmSocHematolEducProgram-v2010p43\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"EapenM-2010-HematolAmSocHematolEducProgram-v2010p43.pdf\"\n                },\n                {\n                    \"title\": \"EuropeanGroupforBloodandMarrow-2010\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"EuropeanGroupforBloodandMarrow-2010.pdf\"\n                },\n                {\n                    \"title\": \"GilstadC-2003-CurrOpinHematol-v10p419\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"GilstadC-2003-CurrOpinHematol-v10p419.pdf\"\n                },\n                {\n                    \"title\": \"GuinanEC-2011-HematolAmSocHematolEducProgram-v2011p76\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"GuinanEC-2011-HematolAmSocHematolEducProgram-v2011p76.pdf\"\n                },\n                {\n                    \"title\": \"GuptaV-2010-Haematologica-v95p2119\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"GuptaV-2010-Haematologica-v95p2119.pdf\"\n                },\n                {\n                    \"title\": \"GurionR-2009-Haematologica-v94p712.pdf\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"GurionR-2009-Haematologica-v94p712.pdf.pdf\"\n                },\n                {\n                    \"title\": \"HamerschlakN-2005-SaoPauloMedJ-v123p101\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"HamerschlakN-2005-SaoPauloMedJ-v123p101.pdf\"\n                },\n                {\n                    \"title\": \"IssaragrisilS-2006-Blood-v107p1299\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"IssaragrisilS-2006-Blood-v107p1299.pdf\"\n                },\n                {\n                    \"title\": \"KamioT-2011-Haematologica-v96p814\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"KamioT-2011-Haematologica-v96p814.pdf\"\n                },\n                {\n                    \"title\": \"KangHJ-2010-BiolBloodMarrowTransplant-v16p1582\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"KangHJ-2010-BiolBloodMarrowTransplant-v16p1582.pdf\"\n                },\n                {\n                    \"title\": \"KimH-2009-LeukRes-v33p222\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"KimH-2009-LeukRes-v33p222.pdf\"\n                },\n                {\n                    \"title\": \"KohKN-2012-BrJHaematol-v157p125\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"KohKN-2012-BrJHaematol-v157p125.pdf\"\n                },\n                {\n                    \"title\": \"KosakaY-2008-Blood-v111p1054\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"KosakaY-2008-Blood-v111p1054.pdf\"\n                },\n                {\n                    \"title\": \"KwonM-2013-BiolBloodMarrowTransplant-v19p143\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"KwonM-2013-BiolBloodMarrowTransplant-v19p143.pdf\"\n                },\n                {\n                    \"title\": \"LeeJW-2010-Blood-v116p2448\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"LeeJW-2010-Blood-v116p2448.pdf\"\n                },\n                {\n                    \"title\": \"LeeJW-2011-BiolBloodMarrowTransplant-v17p101\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"LeeJW-2011-BiolBloodMarrowTransplant-v17p101.pdf\"\n                },\n                {\n                    \"title\": \"LiuHL-2012-BoneMarrowTransplant-v47p1186\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"LiuHL-2012-BoneMarrowTransplant-v47p1186.pdf\"\n                },\n                {\n                    \"title\": \"LocasciulliA-2007-Haematologica-v92p11\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"LocasciulliA-2007-Haematologica-v92p11.pdf\"\n                },\n                {\n                    \"title\": \"LuJ-2004-Blood-v104p4588\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"LuJ-2004-Blood-v104p4588.pdf\"\n                },\n                {\n                    \"title\": \"MaciejewskiJ-2004-LeukLymph-v45p433_MK\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"MaciejewskiJ-2004-LeukLymph-v45p433_MK.pdf\"\n                },\n                {\n                    \"title\": \"MacMillanML-2010-SeminHematol-v47p37\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"MacMillanML-2010-SeminHematol-v47p37.pdf\"\n                },\n                {\n                    \"title\": \"MarshJ-2009-BrJHaematol-v147p43\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"MarshJ-2009-BrJHaematol-v147p43.pdf\"\n                },\n                {\n                    \"title\": \"MarshJ-2011-Blood-v118p2351\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"MarshJ-2011-Blood-v118p2351.pdf\"\n                },\n                {\n                    \"title\": \"MatsudaS-2000-Immunopharmacology-v47p119\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"MatsudaS-2000-Immunopharmacology-v47p119.pdf\"\n                },\n                {\n                    \"title\": \"MauryS-2009-Haematologica-v94p1312\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"MauryS-2009-Haematologica-v94p1312.pdf\"\n                },\n                {\n                    \"title\": \"MedicalNecessityGuidelines-2013\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"MedicalNecessityGuidelines-2013.pdf\"\n                },\n                {\n                    \"title\": \"MontateE-2008-Haematologica-v93p518\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"MontateE-2008-Haematologica-v93p518.pdf\"\n                },\n                {\n                    \"title\": \"NHSTreatmentAdvisoryGroupReport-2012\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"NHSTreatmentAdvisoryGroupReport-2012.pdf\"\n                },\n                {\n                    \"title\": \"OlnesMJ-2012-NEJM-v367p11\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"OlnesMJ-2012-NEJM-v367p11.pdf\"\n                },\n                {\n                    \"title\": \"OostercampHM-1998-BrJHaematol-v103p315\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"OostercampHM-1998-BrJHaematol-v103p315.pdf\"\n                },\n                {\n                    \"title\": \"Pallister&Watson-2011-Haematology-v3p36\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"Pallister&Watson-2011-Haematology-v3p36.pdf\"\n                },\n                {\n                    \"title\": \"PasswegJ-2006-BoneMarrowTransplant-v37p641\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"PasswegJ-2006-BoneMarrowTransplant-v37p641.pdf\"\n                },\n                {\n                    \"title\": \"PasswegJ-2011-JClinOncol-v29p303\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"PasswegJ-2011-JClinOncol-v29p303.pdf\"\n                },\n                {\n                    \"title\": \"PeffaultdeLatourR-2011-BiolBloodMarrowTransplant-v17p78\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"PeffaultdeLatourR-2011-BiolBloodMarrowTransplant-v17p78.pdf\"\n                },\n                {\n                    \"title\": \"PeinemannF-2009-Haematologica-v94p1732\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"PeinemannF-2009-Haematologica-v94p1732.pdf\"\n                },\n                {\n                    \"title\": \"PerezAlbuerneED-2008-BrJHaematol-v141p216\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"PerezAlbuerneED-2008-BrJHaematol-v141p216.pdf\"\n                },\n                {\n                    \"title\": \"RisitanoAM-2010-BrJHaematol-v148p791\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"RisitanoAM-2010-BrJHaematol-v148p791\"\n                },\n                {\n                    \"title\": \"ScheinbergP-2006-BrJHaematol-v133p622\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"ScheinbergP-2006-BrJHaematol-v133p622.pdf\"\n                },\n                {\n                    \"title\": \"ScheinbergP-2009-Haematologica-v94p348\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"ScheinbergP-2009-Haematologica-v94p348.pdf\"\n                },\n                {\n                    \"title\": \"ScheinbergP-2011-NEJM-v365p430\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"ScheinbergP-2011-NEJM-v365p430.pdf\"\n                },\n                {\n                    \"title\": \"ScheinbergP-2012-Blood-v120p1185\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"ScheinbergP-2012-Blood-v120p1185.pdf\"\n                },\n                {\n                    \"title\": \"ScheinbergP-2012-HematologyAmSocHematolEducPogram-v2012p292\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"ScheinbergP-2012-HematologyAmSocHematolEducPogram-v2012p292.pdf\"\n                },\n                {\n                    \"title\": \"SloandEM-2010-Haematologica-v95p382\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"SloandEM-2010-Haematologica-v95p382.pdf\"\n                },\n                {\n                    \"title\": \"SocieG-2013-ASHEducation-v2013p82\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"SocieG-2013-ASHEducation-v2013p82.pdf\"\n                },\n                {\n                    \"title\": \"SteinbergMH-2009-ScientificWorldJournal-v8p1295\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"SteinbergMH-2009-ScientificWorldJournal-v8p1295.pdf\"\n                },\n                {\n                    \"title\": \"TheGenevaFoundationForMedicalEducationandResearch-2014\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"TheGenevaFoundationForMedicalEducationandResearch-2014.pdf\"\n                },\n                {\n                    \"title\": \"UniversityofMinnesotaMedicalCentre-2013\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"UniversityofMinnesotaMedicalCentre-2013.pdf\"\n                },\n                {\n                    \"title\": \"ValdezJM-2011-ClinInfectDis-v52p726\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"ValdezJM-2011-ClinInfectDis-v52p726.pdf\"\n                },\n                {\n                    \"title\": \"ViollierR-2005-AnnHematol-v84p47\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"ViollierR-2005-AnnHematol-v84p47.pdf\"\n                },\n                {\n                    \"title\": \"ViollierR-2008-BoneMarrowTransplant-v41p45\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"ViollierR-2008-BoneMarrowTransplant-v41p45.pdf\"\n                },\n                {\n                    \"title\": \"YagasakiH-2010-BoneMarrowTransplant-v45p1508\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"YagasakiH-2010-BoneMarrowTransplant-v45p1508.pdf\"\n                },\n                {\n                    \"title\": \"YoungNS-1997-NEJM-v336p1365\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"YoungNS-1997-NEJM-v336p1365.pdf\"\n                },\n                {\n                    \"title\": \"YoungNS-2006-Blood-v108p2509\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"YoungNS-2006-Blood-v108p2509.pdf\"\n                },\n                {\n                    \"title\": \"YoungNS-2006-HematologyAmSocHematolEduc-v2006p72\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"YoungNS-2006-HematologyAmSocHematolEduc-v2006p72.pdf\"\n                },\n                {\n                    \"title\": \"YoungNS-2008-CurrOpinHematol-v15p162\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"YoungNS-2008-CurrOpinHematol-v15p162.pdf\"\n                },\n                {\n                    \"title\": \"YoungNS-2010-BiolBloodBoneMarrowTransplant-v16pS119\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"YoungNS-2010-BiolBloodBoneMarrowTransplant-v16pS119.pdf\"\n                },\n                {\n                    \"title\": \"YoungNS-2010-BiolBloodMrrowTransplant-v16pS119\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"YoungNS-2010-BiolBloodMrrowTransplant-v16pS119.pdf\"\n                },\n                {\n                    \"title\": \"ZhengY-2006-ExpHematol-v34p826\",\n                    \"lastUpdated\": \"11/06/2014\",\n                    \"thumbnail\": \"\",\n                    \"trackingPath\": \"\",\n                    \"assetPath\": \"media/documents/module2/\",\n                    \"file\": \"ZhengY-2006-ExpHematol-v34p826.pdf\"\n                }\n            ]\n        }\n    ]\n}",
+			"slide_3_3_5",
+			"li",
+			"ENG",
+			"Eng",
+			"eng",
+			"engl",
+			"eng",
+			"Eng l",
+			"Engl l",
+			".ui-dialog",
+			"table",
+			".information-overlay",
+			".information-button",
+			"slide-sa",
+			"12px",
+			"font-size: 12px",
+			"touch",
+			"three",
+			"vertical-nav",
+			">\n",
+			" style=\"top:455px\"",
+			"over",
+			"auto",
+			"-webkit-overflow-scrolling: touch;",
+			"overlay",
+			"content-container",
+			"information-overlay ",
+			"small",
+			"tw",
+			".blue",
+			"blue",
+			"curren",
+			".swipe-prev",
+			"content-c",
+			"hello",
+			"{\n                    \"title\": \"OrkinS-2008-Cell-v132p631\",\n                    \"lastUpdated\": \"6/6/2013\",\n                    \"thumbnail\": \"OrkinS.JPG\",\n                    \"trackingPath\": \"mastertemplate/OrkinS\",\n                    \"assetPath\": \"media/documents\",\n                    \"file\": \"OrkinS-2008-Cell-v132p631.pdf\"\n                },",
+			"MARGIN-BOTTOM",
+			"small-p",
+			".title-2",
+			"font-size: 36px;\ncolor: #707070;\nposition: relative;\nbottom: 104px;",
+			"clea",
+			"text-indent",
+			"ui-dialog-titlebar",
+			"button ",
+			"ui-dialog-titlebar ",
+			".ui-dialog-titlebar ",
+			"indent",
+			"before",
+			"ui-dialog",
+			"nav",
+			".title-1",
+			"red",
+			"learnin",
+			"dialog",
+			"table",
+			"startcall",
+			"mod-results",
+			"mod-results')",
+			"long-term",
+			"long-term potentiation",
+			"watch",
+			"slide-sa",
+			"question-over",
+			";\n",
+			"header",
+			"overla",
+			"disclaimer",
+			"show-overlay",
+			"overla",
+			"references",
+			"active",
+			".arrow_box:after",
+			"chapter-title",
+			"PI",
+			"br",
+			"content-r",
+			"two",
+			"red",
+			"bar",
+			"content",
+			"ul",
+			"and"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ng-model=\"form.",
+			"stage2",
+			"stage3",
+			"stage2",
+			"stage1",
+			"",
+			"700",
+			"\"/stage.chameleon-uk.com/",
+			"<br />",
+			"name=\"panel3_",
+			"name=\"panel1_",
+			"name=\"panel2_",
+			"name=\"panel2_\n",
+			"Attach\n",
+			"accordion\n",
+			"panel3\n",
+			"panel1\n",
+			"#slide60\n",
+			"slide60\n",
+			"click\n",
+			"link_\n",
+			">\n",
+			"submitUniqueCustomEvent",
+			"request",
+			"aspirin_plus_c_five",
+			"submitCustomEvent",
+			"aspirin_resources",
+			"font-family: 'optima-webfont'",
+			"font-family: 'optima-webfont';",
+			"/*font-family: helvetica;*/",
+			"",
+			"'optima-webfont'",
+			"Optima-Regular",
+			"\"",
+			"content/img/carousel/",
+			"content/img/timeline/",
+			"/content/img/timeline/",
+			"../../content/img/",
+			"font-size:9pt",
+			"font-size:11pt",
+			"}",
+			"div",
+			"<br />",
+			"div",
+			"sliding_pane",
+			"#opener_1a",
+			"div a",
+			"a"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 3557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								61
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/partial-fullscreen.html",
+					"settings":
+					{
+						"buffer_size": 432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/partial-login.html",
+					"settings":
+					{
+						"buffer_size": 776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								766,
+								766
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/partial-section1.html",
+					"settings":
+					{
+						"buffer_size": 709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								461,
+								465
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/partial-section2.html",
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "app/scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								631,
+								595
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/scripts/controllers/main.js",
+					"settings":
+					{
+						"buffer_size": 2314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1932,
+								1932
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1122.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/scripts/directives/main.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "app.directive",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/styles/main.less",
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								843,
+								760
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "bower_components/fullpage.js/jquery.fullPage.js",
+					"settings":
+					{
+						"buffer_size": 48216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46994,
+								47010
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 23424.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.404676258993,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 122.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"29",
+				"/C/Users/dillon.lee/AppData/Local/Temp/scp37729/wp-content/themes/chameleon/footer.php"
+			],
+			[
+				"",
+				"/C/Users/dillon.lee/AppData/Local/Temp/scp57147/test1/revolade2/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true
+}
