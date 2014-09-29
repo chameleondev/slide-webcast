@@ -26,10 +26,23 @@ app.config(function($stateProvider, $urlRouterProvider){
 	 $stateProvider
 
         // HOME STATES AND NESTED VIEWS ========================================
+
+        .state('landing', {
+            url: '/landing',
+            templateUrl: 'views/partial-landing.html',
+            controller : 'LandingCtrl'
+        })
+
         .state('login', {
             url: '/login',
             templateUrl: 'views/partial-login.html',
             controller : 'LoginCtrl'
+        })
+
+        .state('schedule', {
+            url: '/schedule',
+            templateUrl: 'views/partial-schedule.html',
+            controller : 'ScheduleCtrl'
         })
 
         

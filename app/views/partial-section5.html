@@ -1,0 +1,42 @@
+
+<header>
+  
+  <h1>Learning Objectives</h1>
+
+  <p>
+    Thank you for participating in the webcast
+  </p>
+
+</header>
+
+<section>
+  
+  <ul class="list-unstyled">
+    <li ng-repeat="message in messages">
+      {{message.user}} : {{message.text}}
+
+      <!-- exit a message -->
+      <!-- <input ng-model="message.text" ng-change="messages.$save(message)" /> -->
+      <!-- delete message -->
+      <button ng-click="messages.$remove(message)">X</button>
+    </li>
+  </ul>
+
+
+  <!-- push a new message into the array -->
+  <form ng-submit="addMessage(user,newMessageText)">
+    <input id="username" ng-model="user" placeholder="username" />
+    <input id="message" ng-model="newMessageText" placeholder="message" />
+    <button type="submit">add message</button>
+  </form>
+
+  <a href="#section2">Section 2</a>
+  <button ng-click="authClient.logout()">Logout</button>
+
+
+</section>
+
+
+  
+
+

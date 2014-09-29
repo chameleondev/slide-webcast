@@ -1,11 +1,20 @@
 'use strict';
 
-app.controller('AppCtrl',function($scope,$rootScope,$firebaseSimpleLogin,$state){
+app.controller('AppCtrl',function($scope,$rootScope,$firebaseSimpleLogin,$state,$timeout){
 
+});
+
+app.controller('LandingCtrl',function($state,$timeout){
+
+	$timeout(function(){
+		$state.go('login');
+	},5000)
 
 });
 
 app.controller('LoginCtrl',function($scope,$rootScope,$firebaseSimpleLogin,$state){
+
+	
 
 	
 	var ref = new Firebase("https://blazing-heat-237.firebaseio.com/");
@@ -21,7 +30,7 @@ app.controller('LoginCtrl',function($scope,$rootScope,$firebaseSimpleLogin,$stat
 
 		  } else if (user) {
 
-		  	$state.go('webcast');
+		  	$state.go('schedule');
 
 		    console.log('User ' + user.id + ' authenticated via the ' + user.provider + ' provider!');
 
@@ -29,7 +38,7 @@ app.controller('LoginCtrl',function($scope,$rootScope,$firebaseSimpleLogin,$stat
 		  	
 		    console.log("User is logged out.");
 
-		    $state.go('login');
+		    // $state.go('login');
 
 
 		  }
@@ -38,6 +47,14 @@ app.controller('LoginCtrl',function($scope,$rootScope,$firebaseSimpleLogin,$stat
 	});
 
 
+});
+
+
+app.controller('ScheduleCtrl',function($state,$timeout){
+
+	$('.schedule-bg').on('click',function(){
+		$state.go('webcast');
+	})
 
 });
 
@@ -90,11 +107,27 @@ app.controller('WebcastCtrl', function ($scope,$firebase,$timeout,$templateCache
 			$('#fullpage').fullpage({
 		        css3 : true,
 		        keyboardScrolling: false,
-		        normalScrollElements: true
+		        normalScrollElements: true,
+		        verticalCentered : false
 		    });
 
-		    
+		    $('#fullpage').fullpage.setAllowScrolling(false);
 
+
+
+            $('.feedback-section label').on('click tap',function(){
+
+            	$(this).parent().parent().find('label').removeClass('active');
+
+            	$(this).addClass('active');
+            });
+
+
+             $(function() {
+				$( "#sortable1, #sortable2" ).sortable({
+					connectWith: ".sort_me"
+				});
+			});
 		};
 
 	});
@@ -138,7 +171,7 @@ app.controller('WebcastCtrl', function ($scope,$firebase,$timeout,$templateCache
 		  	
 		    console.log("User is logged out.");
 
-		    $state.go('login');
+		    $state.go('landing');
 
 
 		  }

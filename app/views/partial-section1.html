@@ -1,25 +1,47 @@
 
+<header>
+  
+  <h1>
+    Brazil Vaccines 
+    <br>Webcast Series Part 1
+  </h1>
 
-  <ul class="list-unstyled">
-    <li ng-repeat="message in messages">
-      {{message.user}} : {{message.text}}
+  <p>
+    Presentation will start at 10am
+  </p>
 
-      <!-- exit a message -->
-      <!-- <input ng-model="message.text" ng-change="messages.$save(message)" /> -->
-      <!-- delete message -->
-      <button ng-click="messages.$remove(message)">X</button>
-    </li>
-  </ul>
+</header>
+
+<section>
+
+  <div class="img-label">
+
+    <button ng-click="authClient.logout()">Logout</button>
+      
+    <p>
+      Luciano Cesar Ponte Azavedo
+    </p>
+
+    <p>
+      Research and Education Institute (IEP)<br>
+      Hospital Sírio-Libanês<br>
+      São Paulo, Brazil
+    </p>
+
+  </div>
+
+</section>
 
 
-  <!-- push a new message into the array -->
-  <form ng-submit="addMessage(user,newMessageText)">
-    <input id="username" ng-model="user" placeholder="username" />
-    <input id="message" ng-model="newMessageText" placeholder="message" />
-    <button type="submit">add message</button>
-  </form>
 
-  <a href="#section2">Section 2</a>
-  <button ng-click="authClient.logout()">Logout</button>
+
+<!-- <div class="navigation" ng-if="username === 'dillon.lee@chameleon-uk.com'" ng-controller="NavigationCtrl">
+  <button id="moveSectionUp" class="webcastNav">up</button>
+  <button id="moveSectionDown" class="webcastNav">down</button>
+  <button id="moveSlideLeft" class="webcastNav">left</button>
+  <button id="moveSlideRight" class="webcastNav">right</button>
+</div>
+ -->
+  
 
 
