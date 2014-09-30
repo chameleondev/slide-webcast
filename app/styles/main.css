@@ -19,7 +19,7 @@ h1{
 p{
   margin: 0;
 }
-
+/**/
 
 body {
   background: url(../images/bg.jpg) no-repeat center center fixed;
@@ -31,6 +31,7 @@ body {
   font-size: 100%;
   color: #246d82;
 }
+
 button {
   color: black;
 }
@@ -40,6 +41,50 @@ p.small{
 color: #FFF;
 padding-top: 20px;
 padding-left: 60px;
+}
+
+#moveSlideRight{
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 25px 0 25px 30px;
+  border-color: transparent transparent transparent rgba(255,255,255,0.5);
+  position: absolute;
+  right: 10px;
+  bottom: 330px;
+
+}
+
+#moveSlideLeft{
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 25px 30px 25px 0;
+  border-color: transparent rgba(255,255,255,0.5) transparent transparent;
+  position: absolute;
+  left: 10px;
+  bottom: 330px;
+}
+
+#moveSectionDown{
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 30px 25px 0 25px;
+  border-color: rgba(255,255,255,0.5) transparent transparent transparent;
+  position: absolute;
+  top: 20px;
+}
+
+#moveSectionUp{
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 25px 30px 25px;
+  border-color: transparent transparent rgba(255,255,255,0.5) transparent;
+
+  position: absolute;
+  top: -670px;
 }
 
 .fp-controlArrow{
@@ -74,7 +119,7 @@ padding-left: 60px;
   margin: 0;
 }
 .footer {
-  bottom: 0;
+  bottom: 30px;
   position: fixed;
   height: 50px;
   display: block;
@@ -106,6 +151,16 @@ padding-left: 60px;
 
 .section header p:nth-child(3) {
   font-size: 0.7em;
+}
+
+.logout{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 25px;
+  width: 55px;
+  opacity: 0;
+  z-index: 100;
 }
 
 .question-btn{

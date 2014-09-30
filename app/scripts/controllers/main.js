@@ -141,6 +141,8 @@ app.controller('WebcastCtrl', function ($scope,$firebase,$timeout,$templateCache
 
 			$('fullpage').fullpage[direction]();
 
+			$scope.activeSlide = $('.section.active').attr('id');
+			$scope.$apply();
 		};
 		
 		navCount = 1;

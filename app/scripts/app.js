@@ -21,7 +21,7 @@ var app = angular
 app.config(function($stateProvider, $urlRouterProvider){
 
 
-	// $urlRouterProvider.otherwise('/login');
+	$urlRouterProvider.otherwise('/webcast');
 
 	 $stateProvider
 

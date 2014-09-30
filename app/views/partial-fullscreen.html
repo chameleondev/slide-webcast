@@ -1,7 +1,7 @@
 <div ng-cloak  id="fullpage">
           
   <div ng-include="'views/partial-section1.html'" class="section intro-section" data-anchor="section1"></div>
-  <div ng-include="'views/partial-section2.html'" class="section" data-anchor="section2"></div>
+  <div ng-include="'views/partial-section2.html'" class="section" data-anchor="section2" id="horizontal"></div>
   <div ng-include="'views/partial-section3.html'" class="section line-chart-section" data-anchor="section3"></div>
   <div ng-include="'views/partial-section4.html'" class="section feedback-section" data-anchor="section4"></div>
 
@@ -15,11 +15,13 @@
     <li data-menuanchor="section4"><a href="#section4">section4</a></li>
 </ul> -->
 
-<div class="footer" ng-if="username === 'dillon.lee@chameleon-uk.com'" ng-controller="NavigationCtrl">
-	<button id="moveSectionUp" class="webcastNav">up</button>
-	<button id="moveSectionDown" class="webcastNav">down</button>
-	<button id="moveSlideLeft" class="webcastNav">left</button>
-	<button id="moveSlideRight" class="webcastNav">right</button>
+<div class="footer" ng-if="username === 'development@chameleon-uk.com'" ng-controller="NavigationCtrl">
+	<a id="moveSectionUp" class="webcastNav"></a>
+	<a id="moveSectionDown" class="webcastNav"></a>
+	<a id="moveSlideLeft" class="webcastNav" ng-show="$parent.activeSlide === 'horizontal'"></a>
+	<a id="moveSlideRight" class="webcastNav" ng-show="$parent.activeSlide === 'horizontal'"></a>
 </div>
 
  <a class="question-btn"></a>
+
+ <button class="logout" ng-click="authClient.logout()"></button>
