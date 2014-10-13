@@ -95,12 +95,12 @@ padding-left: 60px;
   height: 768px;
   width: 1024px;
   display: block;
-  background-image: url(../images/landing-bg@2x.png);
+  background-image: url(../images/landing-bg@2x.jpg);
   background-size: 1024px 768px; 
 }
 
 .schedule-bg{
-  background-image: url(../images/schedule-bg@2x.png);
+  background-image: url(../images/schedule-bg@2x.jpg);
   background-size: 1024px 768px; 
   height: 768px;
   width: 1024px;
